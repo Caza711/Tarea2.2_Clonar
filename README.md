@@ -6,18 +6,6 @@
 **Asignatura:** Estructura de Datos  
 **Ciclo:** Enero – Julio 2026
 
----
-
-## Integrantes
-
-| Nombre | Rol |
-|--------|-----|
-| Nombre Apellido | Implementación |
-| Nombre Apellido | Documentación |
-| Nombre Apellido | Pruebas |
-
----
-
 ## Descripción
 
 Implementación de los cuatro recorridos de árboles binarios en C++, partiendo del código base del repositorio docente y extendido con 6 nodos nuevos. Se aplica el caso de uso al Proyecto Final del grupo.
@@ -107,6 +95,3 @@ El árbol modela el plan de estudios de Ingeniería de Software. Cada nodo repre
 
 ---
 
-## Uso de IA
-
-Se utilizó Claude (Anthropic) como apoyo para generación de código comentado, adaptación del caso real y redacción de documentación. Todo el código fue compilado y verificado por el grupo antes de la entrega.
